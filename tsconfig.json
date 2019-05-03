@@ -1,0 +1,15 @@
+{
+    "compilerOptions": {
+      "module": "commonjs",
+      "target": "es5",
+      "lib": ["es2016", "es2017", "es2018", "dom", "es5"],
+      "jsx": "react",
+      "sourceMap": true,
+      "strict": false,
+      "strictNullChecks": true,
+      "allowSyntheticDefaultImports": true,
+    },
+    "include": [
+      "./src"
+    ]
+  }
